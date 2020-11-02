@@ -12,3 +12,4 @@ while err > tol
     err = max(abs(C2F-fVals));
     N = N+1;
 end
+N=N-1;
